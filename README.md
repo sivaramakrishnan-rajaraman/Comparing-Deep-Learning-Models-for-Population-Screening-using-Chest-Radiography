@@ -1,6 +1,6 @@
 # Comparing-Deep-Learning-Models-for-Population-Screening-using-Chest-Radiography
 
-Feel free to use the attached notebooks for your own model and data. Kindly cite the publication as these codes are part of this published work:
+Feel free to use the attached notebooks for your own model and data. The repository also includes Matlab scripts to use AlexNet and extract features from the underlying data. Kindly cite the publication as these codes are part of this published work:
 
 ### Rajaraman S, Antani SK, Candemir S, Xue Z, Abuya J, Kohli M, Alderson P, Thoma GR. Comparing deep learning models for population screening using chest radiography. Proc. SPIE 10575, Medical Imaging 2018: Computer-Aided Diagnosis, 105751E (27 February 2018).
 
